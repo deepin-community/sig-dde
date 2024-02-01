@@ -1,6 +1,6 @@
 ---
 title: "DDE v23 beta3 发布说明"
-date: 2022-09-16T14:00:00+08:00
+date: 2024-01-28T14:00:00+08:00
 draft: false
 authors: ["BLumia"]
 tags: ["成果公示"]
