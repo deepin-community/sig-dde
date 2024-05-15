@@ -1,5 +1,5 @@
 ---
-title: "DDE v23 beta3 发布说明"
+title: "DDE v23 RC 发布说明"
 date: 2024-05-15T17:00:00+08:00
 draft: false
 authors: ["BLumia"]
